@@ -1,12 +1,8 @@
 <h1 align="center">¡Hola, soy Rafael García! 👋</h1>
 
 <p align="center">
-  Ingeniero Electrónico 🔌 · Estudiante de Maestría en Ciencia de Datos 📊
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RafaGM1108&color=blueviolet&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/badge/Ubicación-Medellín,%20Colombia-blue?style=flat-square" alt="location" />
+  <img src="https://img.shields.io/badge/Ingeniero%20Electrónico-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
+  <img src="https://img.shields.io/badge/Estudiante%20de%20Maestría%20en%20Ciencia%20de%20Datos-8A2BE2?style=for-the-badge&logo=googlescholar&logoColor=white" />
 </p>
 
 ---
