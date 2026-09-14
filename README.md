@@ -7,7 +7,7 @@
 
 ---
 
-### 🧭 Sobre mí
+### Sobre mí
 
 - 🎓 Cursando la **Maestría en Ciencia de Datos** en la Universidad Pontificia Bolivariana (UPB)
 - 🏠 Trabajo en **automatización y sistemas audiovisuales** (Control4, Lutron, Philips Dynalite) como dealer certificado
