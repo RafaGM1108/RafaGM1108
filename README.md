@@ -91,19 +91,10 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img
-    width="410"
-    height="180"
-    src="https://github-readme-stats-v5f5.onrender.com/api?username=RafaGM1108&show_icons=true&theme=tokyonight&hide_border=true&v=2"
-  />
+  <img width="410" height="180" src="https://github-readme-stats-v5f5.onrender.com/api?username=RafaGM1108&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-  <img
-    width="390"
-    height="180"
-    src="https://github-readme-stats-v5f5.onrender.com/api/top-langs?username=RafaGM1108&layout=compact&theme=tokyonight&hide_border=true&v=2"
-  />
+  <img width="390" height="180" src="https://github-readme-stats-v5f5.onrender.com/api/top-langs?username=RafaGM1108&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
-
 ### 📫 Contacto
 
 <p align="left">
