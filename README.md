@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola, soy Rafael García! 👋</h1>
-<h3 align="center">Científico y Analista de Datos · Machine Learning · Agentes de IA</h3>
+<h3 align="center">Científico y Analista de Datos · Ingeniería de Datos · Agentes de IA</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ingeniero%20Electrónico-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
@@ -12,9 +12,10 @@
 
 - 🎓 Ingeniero Electrónico (Universidad del Norte) y estudiante de la **Maestría en Ciencia de Datos** en la Universidad Pontificia Bolivariana (UPB)
 - 📊 Experiencia en el ciclo completo del dato: **ETL, limpieza, modelado y visualización** con Python, SQL y Power BI
+- ⚙️ Procesamiento de datos a gran escala con **Spark (PySpark), Databricks** y servicios de **AWS** (Glue, Athena, EMR)
 - 🤖 Desarrollando mi tesis: un **agente de IA multiproveedor basado en LLM** con LangGraph y RAG
 - 🌱 Profundizando en **MLOps** y despliegue de modelos en producción
-- 💼 Abierto a oportunidades como **Analista o Científico de Datos**: remoto, Medellín, Bogotá o Barranquilla
+- 💼 Abierto a oportunidades como **Analista, Científico o Ingeniero de Datos**: remoto, Medellín, Bogotá o Barranquilla
 
 ### 🚀 Proyectos destacados
 
@@ -44,6 +45,16 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
+**Big Data & ingeniería de datos**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+</p>
+
+`PySpark` `MapReduce` `ETL` `Modelado relacional` `Calidad de datos`
+
 **IA generativa & LLM**
 
 <p align="left">
@@ -58,9 +69,9 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
 </p>
 
 **Cloud & infraestructura**
@@ -73,7 +84,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-`S3` `Athena` `EMR` `Glue` `Lambda` `EC2` `RDS`
+`S3` `Glue` `Athena` `EMR` `Lambda` `EC2` `RDS`
 
 **Desarrollo de aplicaciones de datos**
 
@@ -92,9 +103,9 @@
 
 <p align="center">
   <img width="410" height="180" src="https://github-readme-stats-v5f5.onrender.com/api?username=RafaGM1108&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
   <img width="390" height="180" src="https://github-readme-stats-v5f5.onrender.com/api/top-langs?username=RafaGM1108&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
+
 ### 📫 Contacto
 
 <p align="left">
